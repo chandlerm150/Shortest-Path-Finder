@@ -1,4 +1,4 @@
-#This file creates the node class and creates all the nodes on the graph
+#This file creates the node class and creates all the node objects which will be used in the graph
 
 class node:
     # Node object to store each node's name and location (coordinates)
