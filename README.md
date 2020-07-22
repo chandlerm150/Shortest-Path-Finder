@@ -1,7 +1,7 @@
 # Dijkstra's Shortest Path Algorithm
 
 ## Introduction
-This project aims to use Dijkstra's algorithm to find the shortest path between any two nodes for the given wieghted graph. A graphical user interface will allow the user to view the graph and input the two nodes to find the shortest path for. The output is the length of the shortest path and the set of nodes that form the shortest path. Note: The distance between nodes is measured in pygame distance units. I scaled the distance values down in the interest of having smaller, easier numbers to read. 
+This project aims to use Dijkstra's algorithm to find the shortest path between any two nodes for the given wieghted graph. A graphical user interface will allow the user to view the graph and input the two nodes to find the shortest path for. The output is the length of the shortest path and the set of nodes that form the shortest path.
 ## Requirements
  - Python 3.x
  - Tkinter
