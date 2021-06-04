@@ -9,6 +9,6 @@ This project aims to use Dijkstra's algorithm to find the shortest path between 
 ## Example
 ![](ShortestPathExample.gif)
 ## What I learned
-I learned how to implement Dijkstra's algorithm and how to combine the algorithm logic with a GUI and vizualisation. 
+I learned how to implement Dijkstra's algorithm and how to combine the algorithm logic with a GUI and visualization. 
 
 
